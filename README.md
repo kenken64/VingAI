@@ -3,7 +3,7 @@
 </p>
 
 
-## VING AI.
+## VING AI
 
 ### Empowering Human Progress, Together."
 
