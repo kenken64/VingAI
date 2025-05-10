@@ -1,1 +1,1 @@
-![Project Logo](./images/logo.png)
+<img src="./images/logo.png" alt="Together" width="250"/>
